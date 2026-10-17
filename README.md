@@ -199,4 +199,6 @@ My approach combines **creative design intuition, clean software architecture, a
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
 
+<sub>🔒 © 2026 Tadbir Tareq G2 (Tadbir20). All Rights Reserved. Proprietary design & code — copying or reproduction without written permission is strictly prohibited.</sub>
+
 </div>
