@@ -165,28 +165,6 @@ My approach combines **creative design intuition, clean software architecture, a
 
 ---
 
-## Pinned Repositories
-
-<div align="center">
-  <a href="https://github.com/Tadbir20/cafetrack-2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadbir20&repo=cafetrack-2.0&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" width="49%" alt="Cafetrack 2.0" />
-  </a>
-  <a href="https://github.com/Tadbir20/SecureNest-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadbir20&repo=SecureNest-app&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" width="49%" alt="SecureNest App" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Tadbir20/G2-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadbir20&repo=G2-portfolio&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" width="49%" alt="G2 Portfolio" />
-  </a>
-  <a href="https://github.com/Tadbir20/Report-X">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tadbir20&repo=Report-X&theme=tokyonight&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8" width="49%" alt="Report-X" />
-  </a>
-</div>
-
----
-
 ## Experience & Education
 
 ### Designer & Software Developer · Freelance & Client Solutions
